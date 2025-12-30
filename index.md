@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ridge, NJ. I'm passionate about the interesction between atmospheric science and machine learning. If I'm not preoccupied with getting xarray to do what I want it to or reading Tarbuck & Lutgens's _Earth Science_, you'll find me doing some sort of outdoor activity.
+Hello, my name is Atharva Tyagi! I'm a junior at Ridge High School in Basking Ridge, NJ. I'm passionate about the interesction between atmospheric science and machine learning. If I'm not preoccupied with getting Xarray to do what I want it to or reading Tarbuck & Lutgens's _Earth Science_, you'll find me doing some sort of outdoor activity.
 
 * * *
 
